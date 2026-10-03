@@ -1,3 +1,6 @@
-## Welcome to **No Man's Land**!
+### Welcome to
+## **No Man's Land**!
 
 NML is currently in closed beta, thank you for participating in our playtests.
+
+If you encounter any issues, please report them to the discord.
